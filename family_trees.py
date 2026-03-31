@@ -1,7 +1,7 @@
 
 import factor as factor
 
-def children(num):
+def children(num):  # generate all partitions of the set
     factors = [factor.prime_factors(num)]
     
             
