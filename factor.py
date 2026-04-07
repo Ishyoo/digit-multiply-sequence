@@ -27,5 +27,3 @@ def prime_factors(num):
             solution.append(factor)
 
     return solution
-
-print(factors(60))
